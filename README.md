@@ -15,6 +15,7 @@ If you want to contribute to the translation of Groot, you can do so by followin
 `Spanish` -> `Es`<br/>
 `French` -> `Fr`<br/>
 `Hindi` -> `Hi`<br/>
+`Hungarian` -> `Hu` <br/>
 `Italian` -> `It`<br/>
 `Punjabi` -> `Ma`<br/>
 `Portuguese` -> `Pt`<br/>
