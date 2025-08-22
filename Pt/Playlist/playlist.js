@@ -14,7 +14,9 @@ module.exports = {
     "noDups": "Não há músicas duplicadas na sua lista de reprodução!",
     "shouldbeNum": "Deve ser um número!",
     "noInput": "Nenhuma entrada recuperada!",
-    "args": "Você precisa selecionar um formulário de opções abaixo"
+    "args": "Você precisa selecionar um formulário de opções abaixo",
+    "playlistNameExceeded": "Desculpe, você superou o limite de nome da lista de reprodução!",
+    "playlistNameInvalid": "Desculpe, você entrou em um nome de playlist inválido!Não deve ser um URL!"
   },
   "addCurrentSelect": "Selecione a lista de reprodução que deseja adicionar a faixa atual",
   "addCurrentSuccessfull": "Adicionado com sucesso à lista de reprodução com nome ** {{song}} **",
@@ -24,7 +26,7 @@ module.exports = {
   "createExceeded": "Desculpe, você excedeu a lista de reprodução de fazer limite!",
   "createSuccessfull": "Lista de reprodução pessoal criada com sucesso com nome ** {{playlist}} **",
   "deleteSelect": "Selecione a lista de reprodução que deseja excluir",
-  "deleteSuccessfull": "Excluído com sucesso Lista de reprodução pessoal com nome ** {{playlist}} **",
+  "deleteSuccessfull": "Lista de reprodução pessoal excluída com sucesso com nome ** {{playlist}} **",
   "listSelect": "Selecione a lista de reprodução que deseja obter informações",
   "playSelect": "Selecione a lista de reprodução que deseja carregar",
   "startedPlaying": "Começou a jogar `{{tracks}}` faixas (s) da lista de reprodução ** {{playlist}} **",
